@@ -91,8 +91,8 @@ export default {
       }}).then(res=>{
         
         console.log(res)
-        this.totalpage=res.data.showapi_res_body.pagebean.allNum;
-        this.tableData=res.data.showapi_res_body.pagebean.contentlist;
+        // this.totalpage=res.data.showapi_res_body.pagebean.allNum;
+        // this.tableData=res.data.showapi_res_body.pagebean.contentlist;
       })
   }
   }
