@@ -1,6 +1,6 @@
 <template>
   <div>
-      <h1>我是detail页面</h1>
+      <h1>我是detail页面兼头部</h1>
   </div>
 
 
